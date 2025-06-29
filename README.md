@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Fullstack Developer | 🤖 AI/ML Enthusiast | 🎯 SaaS + LLM Projects <br>
-  BTech CSE (IoT), VIT Vellore • Currently building CGPA Calculator, VITRendz & AI Resume Tools <br>
+  BTech CSE (IoT), VIT Vellore • Currently building VITrendz & AI Saas Tools <br>
   <a href="mailto:akshatsrivastava11d@gmail.com">📩 akshatsrivastava11d@gmail.com</a> • <a href="https://www.linkedin.com/in/akshat-srivastava-83a684209/">LinkedIn</a> • <a href="https://www.instagram.com/_akshat_7._/">Instagram</a>
 </p>
 
