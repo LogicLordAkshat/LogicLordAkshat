@@ -16,7 +16,7 @@
 - ⚙️ Executive Director & Fullstack Dev @ [VITrendz](https://www.vitrendz.com) — Platform used by 100K+ VIT students
 - 💻 Passionate about building clean, scalable products using Web & AI
 - 🌐 Open to **internships** and **freelance work** in Web & AI SaaS domains
-
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 ---
 
 ## 💼 Tech Stack
