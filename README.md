@@ -16,7 +16,7 @@
 - ⚙️ Executive Director & Fullstack Dev @ [VITrendz](https://www.vitrendz.com) — Platform used by 100K+ VIT students
 - 💻 Passionate about building clean, scalable products using Web & AI
 - 🌐 Open to **internships** and **freelance work** in Web & AI SaaS domains
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+
 ---
 
 ## 💼 Tech Stack
@@ -78,23 +78,37 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LogicLordAkshat&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicLordAkshat&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LogicLordAkshat&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LogicLordAkshat&theme=gotham&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicLordAkshat&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🏆 GitHub Trophies
 
-Love building with clean UIs and powerful backends.  
-Currently open to:  
-- Freelance Projects (Frontend / AI Tools / SaaS MVPs)  
-- Internship Opportunities  
-- Hackathons & Open Source
-
-📬 **Reach Me At:**  
-- ✉️ Email: [akshatsrivastava11d@gmail.com](mailto:akshatsrivastava11d@gmail.com)  
-- 💼 LinkedIn: [akshat-srivastava-83a684209](https://www.linkedin.com/in/akshat-srivastava-83a684209/)  
-- 📸 Instagram: [_akshat_7._](https://www.instagram.com/_akshat_7._/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LogicLordAkshat&theme=city_lights&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=LogicLordAkshat&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=LogicLordAkshat&icon=2&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
