@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year B.Tech (Hons.) in CSE @ VIT Vellore (CGPA: 8.17)
+- 🎓 Pre-Final year B.Tech (Hons.) in CSE @ VIT Vellore 
 - ⚙️ Executive Director & Fullstack Dev @ [VITrendz](https://www.vitrendz.com) — Platform used by 100K+ VIT students
 - 💻 Passionate about building clean, scalable products using Web & AI
 - 🌐 Open to **internships** and **freelance work** in Web & AI SaaS domains
