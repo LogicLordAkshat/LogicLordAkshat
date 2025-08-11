@@ -330,7 +330,7 @@
 ```
 
 ### 🎪 **Fun Facts & Personal Touch**
-- 🧠 **Problem-solving addict** - Can't sleep without solving at least one coding challenge
+- 🧠 **Problem-solving**
 - 🎯 **Product perfectionist** - Believes great UX is the difference between good and revolutionary
 - 🌱 **Continuous learner** - Currently exploring GPT integrations and Web3 technologies  
 - 🎮 **Side passion** - Building indie games in spare time using Unity
