@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 
 # ⚡ AKSHAT SRIVASTAVA
-### AI Engineer • Full Stack Developer • Systems Builder
+### 🤖 AI Engineer • ⚡ Full Stack Developer • 🧠 Systems Builder
 
-🚀 Built AI systems used by **150K+ users**  
+🚀 Built systems used by **150K+ users**  
 🎯 97.8% fraud detection accuracy  
-⚡ Real-time AI pipelines & scalable backend systems  
+⚡ Real-time AI pipelines (<3s latency)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/LogicLordAkshat)
@@ -17,134 +17,20 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
-- AI Engineer Intern building **document fraud detection systems**
-- Full-stack developer specializing in **Next.js + FastAPI + AI**
-- Strong focus on **LLMs, RAG systems, and scalable architectures**
-- Built and scaled platforms serving **100K–150K+ users**
-- Passionate about **AI SaaS, automation, and real-world impact**
+```yaml
+AI Engineer:
+  focus: "LLMs, RAG, real-time AI pipelines"
+  strength: "building scalable backend systems"
 
----
+Builder:
+  built: "AI systems used by 150K+ users"
+  experience: "AI SaaS + full-stack platforms"
 
-## ⚙️ Tech Stack
-
-### 💻 Core
-- Python, TypeScript, JavaScript, C++, Java
-
-### 🎨 Frontend
-- React.js, Next.js, Tailwind CSS, Framer Motion
-
-### ⚡ Backend
-- Node.js, Express.js, FastAPI
-- REST APIs, WebSockets, Microservices
-
-### 🧠 AI / ML
-- LLMs, LangChain, RAG
-- NLP, OCR, OpenCV
-- XGBoost, Scikit-learn
-- Vector DBs, Embeddings
-- Feature Engineering, SHAP
-
-### 🗄️ Databases
-- PostgreSQL, MongoDB, Redis, Supabase, Firebase
-
-### ☁️ DevOps
-- AWS (EC2, S3, Lambda), Docker, CI/CD, Vercel
-
----
-
-## 💼 Experience
-
-### 🚀 AI Engineer Intern — BizNeuro AI (2026–Present)
-- Built **DocNeuro**, an AI platform for document forgery detection
-- Designed FastAPI microservices with **<3s real-time processing**
-- Engineered pipeline using OCR + CNN + forensic signals
-- Built risk scoring system using **47+ features**
-- Achieved **97.8% fraud detection accuracy**
-
----
-
-### 💻 Freelance AI Full Stack Developer (2025–2026)
-- Delivered **7+ AI SaaS products**
-- Built scalable backend systems + real-time features
-- Reduced dev time by **30% using reusable architecture**
-
----
-
-### 🌐 Software Engineer — VITrendz (2024–2025)
-- Scaled platform to **100,000+ users**
-- Built FFCS Planner, GPA tools, roommate finder
-- Improved backend performance by **45%**
-- Led a team of 5 developers
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 MarkovAI — Real-Time AI Assistant
-- Multimodal AI assistant with voice + screen understanding
-- Built using Electron, LLM APIs, WebRTC
-- Reduced support workload by **45%**
-- Improved latency by **65%**
-
----
-
-### 🛡️ AI Fraud Detection System
-- Detects document tampering using **20+ forensic signals**
-- Uses OCR, metadata analysis, ELA, anomaly detection
-- Built with FastAPI + XGBoost
-- Real-time API with explainable outputs
-
----
-
-### 🔐 KravenAI — Password Security Platform
-- Used by **50,000+ users**
-- 98.2% accuracy in detecting weak passwords
-- Zero-knowledge encryption + real-time analysis
-
----
-
-### 📊 VITrendz Platform
-- 100K+ users
-- Full-stack student ecosystem
-- Built using Next.js + PostgreSQL
-
----
-
-## 📊 Impact
-
-- 👥 150,000+ users impacted
-- 🎯 97.8% ML accuracy
-- ⚡ Real-time AI systems (<3s latency)
-- 🚀 7+ production-grade SaaS products delivered
-
----
-
-## 🎯 Current Focus
-
-- Building **AI SaaS products**
-- Scaling **real-time AI pipelines**
-- Learning **advanced system design**
-- Growing freelance + remote opportunities
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 Open to internships & freelance
-- 🚀 Interested in AI, SaaS, and system design projects
-
-📩 **Email:** akshatsrivastava30404@gmail.com  
-🌐 **GitHub:** https://github.com/LogicLordAkshat  
-
----
-
-<div align="center">
-
-### ⚡ "Build fast. Scale smart. Ship real impact."
-
-</div>
+Current Role:
+  position: "AI Engineer Intern @ BizNeuro AI"
+  work: "Document fraud detection systems"
 
 <div align="center">
 
