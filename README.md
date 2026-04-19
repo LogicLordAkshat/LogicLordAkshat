@@ -1,36 +1,4 @@
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
-
-# ⚡ AKSHAT SRIVASTAVA
-### 🤖 AI Engineer • ⚡ Full Stack Developer • 🧠 Systems Builder
-
-🚀 Built systems used by **150K+ users**  
-🎯 97.8% fraud detection accuracy  
-⚡ Real-time AI pipelines (<3s latency)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/LogicLordAkshat)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:akshatsrivastava30404@gmail.com)
-
-</div>
-
----
-
-## 🧠 Who Am I?
-
-```yaml
-AI Engineer:
-  focus: "LLMs, RAG, real-time AI pipelines"
-  strength: "building scalable backend systems"
-
-Builder:
-  built: "AI systems used by 150K+ users"
-  experience: "AI SaaS + full-stack platforms"
-
-Current Role:
-  position: "AI Engineer Intern @ BizNeuro AI"
-  work: "Document fraud detection systems"
 
 <div align="center">
 
